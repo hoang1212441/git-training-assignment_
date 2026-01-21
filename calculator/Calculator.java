@@ -14,6 +14,9 @@ public class Calculator {
             case MINUS:
                 return arg1 - arg2;
                 default:
+            case MULTIPLY:
+                return arg1 * arg2;
+            default:
                 return 0d;
         }
     }
