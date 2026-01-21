@@ -11,7 +11,9 @@ public class Calculator {
         switch (sign) {
             case PLUS:
                 return arg1 + arg2;
-            default:
+            case MINUS:
+                return arg1 - arg2;
+                default:
                 return 0d;
         }
     }
