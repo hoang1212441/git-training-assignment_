@@ -9,7 +9,7 @@ public class Calculator {
 
     public static Double calculate(SIGN sign, Double arg1, Double arg2) {
         switch (sign) {
-            case PLUS:
+            case MULTIPLY:
                 return arg1 * arg2;
             default:
                 return 0d;
