@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b8a7903-ce25-485b-8c74-e1c1b7ef0864" name="Changes" comment="" />
+    <list default="true" id="2b8a7903-ce25-485b-8c74-e1c1b7ef0864" name="Changes" comment="aa" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +40,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "git-widget-placeholder": "#2 on feature/KSSTUDENTS/NguyenHuyHoang…tiply",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/Admin/git-training-assignment_",
     "node.js.detected.package.eslint": "true",
@@ -67,6 +68,7 @@
       <updated>1768985601914</updated>
       <workItem from="1768985604315" duration="338000" />
       <workItem from="1768985966946" duration="3553000" />
+      <workItem from="1768989617930" duration="346000" />
     </task>
     <task id="LOCAL-00001">
       <option name="closed" value="true" />
@@ -76,10 +78,30 @@
       <option name="project" value="LOCAL" />
       <updated>1768989238021</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002">
+      <option name="closed" value="true" />
+      <created>1768989849130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1768989849130</updated>
+    </task>
+    <task id="LOCAL-00003" summary="aa">
+      <option name="closed" value="true" />
+      <created>1768989858177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1768989858177</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aa" />
+    <option name="LAST_COMMIT_MESSAGE" value="aa" />
   </component>
 </project>
